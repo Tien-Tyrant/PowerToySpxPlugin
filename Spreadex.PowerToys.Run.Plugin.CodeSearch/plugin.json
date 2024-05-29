@@ -1,0 +1,14 @@
+{
+  "ID": "D4EAA9F52F6B47E19BDA76C88AB345BC",
+  "ActionKeyword": "cs",
+  "IsGlobal": false,
+  "Name": "Code Search",
+  "Author": "zhao tian",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/hlaueriksson/ConductOfCode",
+  "ExecuteFileName": "Spreadex.PowerToys.Run.Plugin.CodeSearch.dll",
+  "IcoPathDark": "Images\\demo.dark.png",
+  "IcoPathLight": "Images\\demo.light.png",
+  "DynamicLoading": false
+}
